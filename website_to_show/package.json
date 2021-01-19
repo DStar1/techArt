@@ -1,0 +1,24 @@
+{
+  "name": "portfolio_website",
+  "version": "1.0.0",
+  "description": "https://www.styleshout.com/free-templates/hola/",
+  "main": "main.js",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DStar1/portfolio_website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DStar1/portfolio_website/issues"
+  },
+  "homepage": "https://github.com/DStar1/portfolio_website#readme"
+}
